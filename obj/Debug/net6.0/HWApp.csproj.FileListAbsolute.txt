@@ -1,0 +1,15 @@
+/home/student/Documents/HWApp/bin/Debug/net6.0/HWApp
+/home/student/Documents/HWApp/bin/Debug/net6.0/HWApp.deps.json
+/home/student/Documents/HWApp/bin/Debug/net6.0/HWApp.runtimeconfig.json
+/home/student/Documents/HWApp/bin/Debug/net6.0/HWApp.dll
+/home/student/Documents/HWApp/bin/Debug/net6.0/HWApp.pdb
+/home/student/Documents/HWApp/obj/Debug/net6.0/HWApp.csproj.AssemblyReference.cache
+/home/student/Documents/HWApp/obj/Debug/net6.0/HWApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/student/Documents/HWApp/obj/Debug/net6.0/HWApp.AssemblyInfoInputs.cache
+/home/student/Documents/HWApp/obj/Debug/net6.0/HWApp.AssemblyInfo.cs
+/home/student/Documents/HWApp/obj/Debug/net6.0/HWApp.csproj.CoreCompileInputs.cache
+/home/student/Documents/HWApp/obj/Debug/net6.0/HWApp.dll
+/home/student/Documents/HWApp/obj/Debug/net6.0/refint/HWApp.dll
+/home/student/Documents/HWApp/obj/Debug/net6.0/HWApp.pdb
+/home/student/Documents/HWApp/obj/Debug/net6.0/HWApp.genruntimeconfig.cache
+/home/student/Documents/HWApp/obj/Debug/net6.0/ref/HWApp.dll
